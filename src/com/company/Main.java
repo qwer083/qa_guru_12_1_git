@@ -7,4 +7,8 @@ public class Main {
         System.out.println("Another line1");
         System.out.println("Haha");
     }
+    
+    public static void another(){
+        System.out.println("ANOTHER METHOD");
+    }
 }
