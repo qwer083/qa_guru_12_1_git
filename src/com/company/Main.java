@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, QA.guru!");
         System.out.println("Another line1");
-        System.out.println("GUGU");
+        System.out.println("GUGU1");
     }
     
     public static void another(){
